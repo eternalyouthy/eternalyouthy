@@ -11,7 +11,8 @@ I have a Bachelor's degree in Cybersecurity. My long-term goal is to become a **
 - ⏸️ My cybersecurity projects are currently on hold.
 - 🛠️ Sometimes I build web projects just for fun.
 
-One of them is **[Recognize](https://github.com/eternalyouthy/recognize)**, a free, open-source language learning tool. You can also try it online: **[just click on me ><](https://etrnl.world/recognize)**
+One of them is **[Recognize](https://github.com/eternalyouthy/recognize)**, a free, open-source language learning tool. 
+You can also try it online: **[just click on me ><](https://etrnl.world/recognize)**
 
 The idea is simple: learn languages by finding connections between words, roots, and expressions instead of memorizing everything from scratch.
 
